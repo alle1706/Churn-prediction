@@ -12,11 +12,9 @@ The model was trained on a dataset sourced from Kaggle, which you can find [here
 
 ## Data Preprocessing
 
-The initial dataset is loaded from "Churn_Modelling.csv."
-Irrelevant columns like 'CustomerId,' 'Surname,' 'RowNumber,' and 'Geography' are dropped.
-Data types are checked to ensure proper encoding.
-The 'Gender' column is encoded (Female: 1, Male: 0).
-Selected columns ('CreditScore', 'Age', 'Tenure', 'Balance', 'NumOfProducts', 'EstimatedSalary') are scaled using Min-Max scaling.
+- The initial dataset is loaded and irrelevant columns like 'CustomerId,' 'Surname,' 'RowNumber,' and 'Geography' are dropped.
+- Data types are checked to ensure proper encoding.
+- Selected columns ('CreditScore', 'Age', 'Tenure', 'Balance', 'NumOfProducts', 'EstimatedSalary') are scaled using Min-Max scaling.
 
 ## Training and architecture
 
