@@ -7,7 +7,7 @@ This repository contains a churn prediction model implemented using Artificial N
 
 ## Dataset
 
-The model was trained on a dataset sourced from Kaggle, which you can find [here](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
+The model was trained on a dataset sourced from Kaggle, which you can find [here](https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling).
 
 
 ## Data Preprocessing
